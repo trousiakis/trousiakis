@@ -1,21 +1,32 @@
 
-<h1>👋 Hi, I’m Tom ,a fresh web developer with a lot of passion about learning.</h1>
+# 👋 Hi, I’m Tom ,a fresh web developer with a lot of passion about learning.
+
+<div align="right"  >
+  
+  
+  <img align='right' width="40%" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"></img>
+  
+</div
 
 
-<div align="center" >
-  <img  src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" />
+<div>
+  
+<img align='left' width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trousiakis&layout=compact"></img>
+
 </div>
-<div align="left" width="30em">
-  <h2 >About Me</h2>
-  <p  >asdasdasd as das dasd asdasd asd aw ffa sdf eqwgafasf qqrfqwf qf qwf qf q qwqfq fq qw fqf qwf qwf q fqwffqwfqwfq qw</p>
+
+<div align="left" >
+  
+![stats](https://github-readme-stats.vercel.app/api?username=trousiakis&show_icons=true&theme=radical)
+  
 </div>
 
 
-<img align='left' width="47%" src="https://github-readme-stats.vercel.app/api?username=trousiakis&show_icons=true&theme=radical"></img>
+## About Me
+asdasdasd as das dasd asdasd asd aw ffa sdf eqwgafasf qqrfqwf qf qwf qf q qwqfq fq qw fqf qwf qwf q fqwffqwfqwfq qw
 
-<img align='left' width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trousiakis&layout=compact"></img>
 
-</br>
+
 
 
 <h2 align='center'>Some of the technologies that i use</h2>
