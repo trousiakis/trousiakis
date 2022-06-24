@@ -1,7 +1,7 @@
 
 # 👋 Hi, I’m Tom ,a fresh web developer with a lot of passion about learning.
 
-<div align="right"  >
+<div align="right" >
   
   
   <img align='right' width="35%" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"></img>
