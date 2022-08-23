@@ -22,8 +22,7 @@
 </div>
 
 
-## About Me
-asdasdasd as das dasd asdasd asd aw ffa sdf eqwgafasf qqrfqwf qf qwf qf q qwqfq fq qw fqf qwf qwf q fqwffqwfqwfq qw
+
 
 
 
