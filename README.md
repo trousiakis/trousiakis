@@ -1,67 +1,36 @@
-
-# 👋 Hi, I’m Tom ,a fresh web developer with a lot of passion about learning.
-
-<div align="right" >
-  
-  
-  <img align='right' width="35%" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"></img>
-  
-</div
-
-
-<div>
-  
-<img align='left' width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trousiakis&layout=compact"></img>
-
+<div align="left">
+  <h1>Hi there, I'm Thomas 👋</h1>
+  <h3>💻 Frontend Software Engineer | Passionate About Web Technologies</h3>
 </div>
 
-<div align="left" >
-  
-![stats](https://github-readme-stats.vercel.app/api?username=trousiakis&show_icons=true&theme=radical)
-  
+<div align="left">
+  <img align='right' width="30%" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
 </div>
 
+## 🚀 About me
+- 🏗️ Building web applications with **React, TypeScript, Zustand, and Redux**  
+- 📡 Working with **Node.js, PHP, and MongoDB** for backend services  
+- 🚀 Exploring **performance optimizations & state management techniques**  
+- 🔧 Always experimenting with **new tools, frameworks, and technologies**  
+- 🛠️ Creating projects for fun & solving everyday problems with code  
 
+---
 
+## 🛠️ Tech Stack  
 
-
-
-
-
-<h2 align='center'>Some of the technologies that i use</h2>
-
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-
-
-
-
-
-<h2 align='center'>Want to learn more about</h2>
-<div align='center'>
-
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
+<div align="center">
+  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge">
 </div>
 
+---
 
+## 🔥 Recent Projects  
 
-<h2 align='center'>my text editor</h2>
-<div align='center'>
+🔗 **[Discord Voice Activity Bot](#)** – Voice tracking & admin analytics for Discord  
+🔗 **[Montel Context Protocol Server](#)** – Tools for LLMs  
 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</div>
-
-
+---
